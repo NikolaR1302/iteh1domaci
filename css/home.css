@@ -1,0 +1,22 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    color: rgb(245, 238, 238);
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/slika3.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+
+button:hover {
+    border: 1px solid rgb(233, 17, 17);
+    color: rgb(223, 97, 24);
+    opacity: 90%;
+}
